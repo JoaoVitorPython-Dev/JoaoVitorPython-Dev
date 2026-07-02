@@ -1,4 +1,4 @@
-# Olá, eu sou o João Vitor! 👋
+# Olá, eu sou o João Vitor! 
 
 Estou em busca da minha primeira oportunidade como **Estagiário de Desenvolvimento**. 
 
@@ -6,14 +6,14 @@ Sou apaixonado por resolver problemas reais através do código, com foco princi
 
 ---
 
-### 🚀 Sobre Mim
-* 🎓 Cursando o 1º ano do Ensino Médio.
-* 🎯 Objetivo: Desenvolver algoritmos eficientes, criar automações que economizam tempo e integrar modelos de IA no dia a dia das empresas.
-* 🌱 No momento, estou estudando mais sobre: Python, Git, Github, SQL e Claude.
+###   Sobre Mim
+*   Cursando o 1º ano do Ensino Médio.
+*   Objetivo: Desenvolver algoritmos eficientes, criar automações que economizam tempo e integrar modelos de IA no dia a dia das empresas.
+*   No momento, estou estudando mais sobre: Python, Git, Github, SQL e Claude.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###   Tecnologias e Ferramentas
 
 * **Linguagem Principal:** Python
 * **Inteligência Artificial & Dados:** Claude
@@ -22,13 +22,13 @@ Sou apaixonado por resolver problemas reais através do código, com foco princi
 
 ---
 
-### 📌 Projetos em Destaque
+###   Projetos em Destaque
   Meu primeiro projeto, simulando um sistema de banco com
 python:
 https://github.com/JoaoVitorPython-Dev/Banco-Python
 
 ---
 
-### 📫 Conecte-se Comigo
-* 💼 **LinkedIn:** https://www.linkedin.com/in/joaovictor-developer
-* 📧 **E-mail:** joaovitor010games@gmail.com
+###   Conecte-se Comigo
+*   **LinkedIn:** https://www.linkedin.com/in/joaovictor-developer
+*   **E-mail:** joaovitor010games@gmail.com
