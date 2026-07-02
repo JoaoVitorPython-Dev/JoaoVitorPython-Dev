@@ -23,7 +23,9 @@ Sou apaixonado por resolver problemas reais através do código, com foco princi
 ---
 
 ### 📌 Projetos em Destaque
-
+  Meu primeiro projeto, simulando um sistema de banco com
+python:
+https://github.com/JoaoVitorPython-Dev/Banco-Python
 
 ---
 
